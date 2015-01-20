@@ -1,0 +1,9 @@
+---
+name: Jason Stewart
+age: 22
+about: >
+  **So what is there to know about me?**
+  I'm a bla bla bla **designer**
+skills:
+- {name: Design, value: 4}
+- {name: Coding, value: 5}

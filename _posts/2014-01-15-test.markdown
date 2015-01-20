@@ -1,0 +1,49 @@
+---
+title: "Test Post"
+date: 2014-01-15 21:25:48
+categories: test 
+author: "Dawn French"
+tags:
+  - 2014 
+  - testing
+---
+
+This is a simple paragraph
+
+### Block Quotes
+>This is a *block quote*
+
+Quote Break
+
+>This is **another** line from the aforementioned *block quote*
+>
+>And again again
+
+~~Strike Through~~
+
+## Todo
+1.  [Shopping](# "Shopping List")
+	*   Milk
+	*   Sugar
+2.  Git
+
+    What is it and why do we need it?
+
+<aside>
+This is a [link](# "Dud link")
+</aside>
+
+![A picture of a pokemon](/downloads/geodude.png "It's Geodude yo")
+
+`alert("Hello World");`
+
+---
+
+`alert("Hello World! Again ...")`
+
+***
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
