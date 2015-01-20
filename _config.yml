@@ -26,4 +26,4 @@ kramdown:
 
 sass:
   style: compressed
-paginate: 2
+paginate: 4
